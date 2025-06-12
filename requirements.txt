@@ -1,0 +1,4 @@
+flask
+pillow
+torch
+git+https://github.com/xinntao/Real-ESRGAN.git
